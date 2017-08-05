@@ -1,0 +1,26 @@
+{
+  "name": "hashplan",
+  "version": "1.0.0",
+  "description": "plan our trips",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randaabuali/hashplan.git"
+  },
+  "keywords": [
+    "plan",
+    "japan",
+    "hash",
+    "planner",
+    "trip"
+  ],
+  "author": "RAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randaabuali/hashplan/issues"
+  },
+  "homepage": "https://github.com/randaabuali/hashplan#readme"
+}
